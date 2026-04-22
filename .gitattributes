@@ -1,0 +1,5 @@
+*.sql linguist-detectable=true linguist-language=SQL
+*.py linguist-detectable=true
+data/* linguist-vendored=true
+docs/* linguist-documentation=true
+tableau/* linguist-documentation=true
