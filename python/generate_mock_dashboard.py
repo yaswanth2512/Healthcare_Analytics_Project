@@ -35,7 +35,9 @@ fig = plt.figure(figsize=(18, 10), facecolor='#f5f6f8') # Typical subtle Tableau
 rect = Rectangle((0, 0.93), 1, 0.07, transform=fig.transFigure, facecolor='white', zorder=1, edgecolor='#d0d4d9')
 fig.patches.append(rect)
 fig.text(0.04, 0.95, '⚕️ Executive Claims Operations Framework', fontsize=20, fontweight='bold', fontfamily='sans-serif', color='#2b3d52', zorder=2)
-fig.text(0.85, 0.95, 'Data Source: Snowflake', fontsize=12, fontstyle='italic', color='#636e72', zorder=2)
+from datetime import datetime
+today_str = datetime.now().strftime('%b %d, %Y')
+fig.text(0.75, 0.95, f'Data Source: Snowflake | Last Updated: {today_str}', fontsize=12, fontstyle='italic', color='#636e72', zorder=2)
 
 # Grid Spec layouts
 gs = gridspec.GridSpec(3, 3, height_ratios=[0.6, 2.5, 2.5], figure=fig)
