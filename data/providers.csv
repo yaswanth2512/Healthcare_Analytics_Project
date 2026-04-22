@@ -1,0 +1,501 @@
+provider_id,provider_npi,provider_name,specialty,clinic_name,city,state,network_status
+PRV00001,8514057418,Dr. Flynn,Pediatrics,Stout PLC Clinic,Jimenezberg,ID,In-Network
+PRV00002,4112563384,Dr. Garcia,Pediatrics,Stephens-Potter Clinic,Johntown,AS,In-Network
+PRV00003,4514136197,Dr. Jones,Oncology,"Herman, Turner and George Clinic",Hesterton,ND,Out-of-Network
+PRV00004,9462627760,Dr. Johnson,Pediatrics,Lara Inc Clinic,New Marthamouth,NM,Out-of-Network
+PRV00005,1388646502,Dr. Hamilton,Orthopedics,Long-Reynolds Clinic,Robertchester,WI,Out-of-Network
+PRV00006,3068351502,Dr. Ford,Emergency,Dorsey-Hartman Clinic,East Tammyville,FM,Out-of-Network
+PRV00007,5379319092,Dr. Clarke,General Practice,Duffy-Garcia Clinic,Gillespiehaven,IN,Out-of-Network
+PRV00008,8788050981,Dr. Delacruz,Cardiology,Guerrero Inc Clinic,Jeffreytown,TX,Out-of-Network
+PRV00009,1180749199,Dr. Simon,Neurology,Cruz-Brown Clinic,Kristinahaven,AR,Out-of-Network
+PRV00010,2970219466,Dr. Booker,Cardiology,Rodriguez-Gonzalez Clinic,North Douglas,VI,Out-of-Network
+PRV00011,5452386336,Dr. Bauer,Pediatrics,Leon-Kent Clinic,South Richard,ID,Out-of-Network
+PRV00012,2037650678,Dr. Roberson,Emergency,"Garrison, Christian and Martin Clinic",Daniellehaven,KS,Out-of-Network
+PRV00013,1237690680,Dr. Cook,Orthopedics,Shepard Ltd Clinic,East Karen,WI,In-Network
+PRV00014,6311176643,Dr. Anderson,Pediatrics,Jackson and Sons Clinic,South Jacqueline,MT,Out-of-Network
+PRV00015,2979093179,Dr. Cruz,Emergency,Rivera-Graham Clinic,Dwaynefort,AS,In-Network
+PRV00016,9814475759,Dr. Anderson,General Practice,Gibson Ltd Clinic,Johnsonport,VT,Out-of-Network
+PRV00017,3607458932,Dr. Eaton,Pediatrics,Santiago-Hoffman Clinic,Williamston,KS,Out-of-Network
+PRV00018,8055157452,Dr. Martin,Neurology,"Gray, Yang and Baxter Clinic",Fernandezchester,CO,In-Network
+PRV00019,5797097042,Dr. Frost,Orthopedics,Weiss-Harvey Clinic,Chadborough,OR,In-Network
+PRV00020,3435846612,Dr. Ward,Oncology,Bell LLC Clinic,Kennethport,ND,Out-of-Network
+PRV00021,1377523830,Dr. Perez,Emergency,"Matthews, Hamilton and Lee Clinic",Riveraview,NC,In-Network
+PRV00022,9545814112,Dr. Diaz,Emergency,Hicks-White Clinic,Port Stephanie,KS,Out-of-Network
+PRV00023,1436496262,Dr. Houston,Neurology,Torres-Hill Clinic,Mccallbury,PW,In-Network
+PRV00024,2606124128,Dr. Long,Oncology,"Rosario, Stevens and Douglas Clinic",Medinaville,IN,In-Network
+PRV00025,2982763766,Dr. Bryant,Neurology,Gibson Inc Clinic,Johnsonborough,MS,Out-of-Network
+PRV00026,6063074398,Dr. Martin,Pediatrics,Perry-Williams Clinic,Lake Christopher,CO,Out-of-Network
+PRV00027,2738956443,Dr. Hunter,Emergency,"Shepherd, Hull and Hodge Clinic",Andersonbury,ME,Out-of-Network
+PRV00028,4011878200,Dr. Nichols,Emergency,"Mora, Smith and Becker Clinic",Floresborough,PW,Out-of-Network
+PRV00029,7456665483,Dr. Thomas,Neurology,"Watson, Kramer and Stanley Clinic",East Michele,MT,In-Network
+PRV00030,7093254796,Dr. Anthony,Cardiology,"Aguirre, Adams and Todd Clinic",East Marcia,ID,Out-of-Network
+PRV00031,8135141866,Dr. Evans,Emergency,"Reese, Pineda and Smith Clinic",Susanborough,WA,Out-of-Network
+PRV00032,7767601310,Dr. Turner,Neurology,Hernandez-Wolf Clinic,Moorebury,MN,In-Network
+PRV00033,5161079475,Dr. Brown,Oncology,Guerra Ltd Clinic,Port Wesleybury,CA,Out-of-Network
+PRV00034,4894141592,Dr. Collins,General Practice,Horn PLC Clinic,Port Dawn,MN,Out-of-Network
+PRV00035,8947218397,Dr. Jackson,Pediatrics,Zavala Group Clinic,New Valerietown,MS,Out-of-Network
+PRV00036,5931659335,Dr. Diaz,Orthopedics,Powell Ltd Clinic,South Jessica,NJ,In-Network
+PRV00037,4408270473,Dr. Howard,Orthopedics,"Byrd, Marquez and Freeman Clinic",New Brian,AS,Out-of-Network
+PRV00038,1160950008,Dr. Gould,Neurology,Oconnor-Grant Clinic,Millerchester,IN,Out-of-Network
+PRV00039,4746627963,Dr. Dawson,Cardiology,"Davis, Ross and Sanchez Clinic",Hansonmouth,NC,Out-of-Network
+PRV00040,6626865406,Dr. Diaz,General Practice,"Williams, Goodwin and Washington Clinic",Wagnerstad,SC,In-Network
+PRV00041,7585576627,Dr. Williams,Emergency,"Parker, Byrd and Montgomery Clinic",West Sarah,DE,In-Network
+PRV00042,4925757609,Dr. Parrish,General Practice,Watkins-Delgado Clinic,South Danielland,NY,Out-of-Network
+PRV00043,6937250977,Dr. Sanchez,General Practice,Perry-Evans Clinic,Port Nathaniel,MS,Out-of-Network
+PRV00044,8575168216,Dr. Salazar,Pediatrics,Miller-Blair Clinic,Williamshire,ID,In-Network
+PRV00045,9579709880,Dr. Lambert,Pediatrics,Joyce Ltd Clinic,South Lauren,DE,Out-of-Network
+PRV00046,1465046246,Dr. Campbell,Cardiology,Johnson Group Clinic,Erichaven,GU,In-Network
+PRV00047,9867189689,Dr. Lutz,Emergency,Smith-Petty Clinic,Cindyview,DE,In-Network
+PRV00048,5459979943,Dr. Patterson,General Practice,Harrison PLC Clinic,Jacobfurt,MP,Out-of-Network
+PRV00049,7076939858,Dr. Williams,Pediatrics,Daniels-Chavez Clinic,Stewartview,CA,In-Network
+PRV00050,3488729340,Dr. Webb,Orthopedics,"Williams, Barnes and Peterson Clinic",New Lynn,VA,In-Network
+PRV00051,9388909268,Dr. Armstrong,Oncology,"Holt, Stephens and Trujillo Clinic",Cooperview,KY,Out-of-Network
+PRV00052,3343504521,Dr. Mills,General Practice,West LLC Clinic,West Mary,GU,In-Network
+PRV00053,7238487166,Dr. Spence,Pediatrics,Sanchez Ltd Clinic,Shepherdstad,CO,Out-of-Network
+PRV00054,1944027192,Dr. Pacheco,Cardiology,White-Bailey Clinic,Alexanderport,SC,Out-of-Network
+PRV00055,1245047592,Dr. Stewart,Neurology,Pennington Ltd Clinic,Rasmussenborough,WA,Out-of-Network
+PRV00056,2948284541,Dr. Burns,Neurology,Torres-Murphy Clinic,Riveraside,AR,In-Network
+PRV00057,6126155483,Dr. Santiago,Pediatrics,"Maynard, Murray and Williams Clinic",Jonesburgh,PA,In-Network
+PRV00058,2396244574,Dr. Schmidt,Orthopedics,Simpson-Brown Clinic,Molinafort,GA,In-Network
+PRV00059,9554907515,Dr. Waller,Pediatrics,Campbell-Li Clinic,Robertbury,NV,In-Network
+PRV00060,6493435344,Dr. White,Neurology,Williams-Krueger Clinic,West Timothy,MA,In-Network
+PRV00061,4583264342,Dr. Harris,Pediatrics,"Garcia, Matthews and Shaffer Clinic",Keithstad,NH,Out-of-Network
+PRV00062,4547336471,Dr. Davidson,Emergency,Ware-Orr Clinic,Saunderstown,VT,In-Network
+PRV00063,8824248473,Dr. Campbell,Orthopedics,Morales-Hanson Clinic,Port Charles,WA,Out-of-Network
+PRV00064,4839735463,Dr. Romero,Pediatrics,"Adams, Williams and Wilson Clinic",Kristiehaven,GU,In-Network
+PRV00065,8562579624,Dr. Ramos,General Practice,Velez-Garcia Clinic,Wallacetown,CO,In-Network
+PRV00066,6739978292,Dr. Miller,Emergency,"Castillo, Thomas and Dean Clinic",South Kyleberg,NM,In-Network
+PRV00067,2808701187,Dr. Wong,Orthopedics,Cook Ltd Clinic,Lake Michelle,NJ,In-Network
+PRV00068,7439220780,Dr. Cruz,Cardiology,Martinez and Sons Clinic,Lake Nicholas,NC,In-Network
+PRV00069,7647599634,Dr. Pearson,Orthopedics,Fox-Reed Clinic,East Kenneth,PR,Out-of-Network
+PRV00070,6642730299,Dr. Carlson,Emergency,"Parsons, Archer and Jones Clinic",New Anne,SD,In-Network
+PRV00071,2037102755,Dr. Dominguez,Orthopedics,"Griffith, Bell and Durham Clinic",New Joseph,AR,In-Network
+PRV00072,5751415923,Dr. Woods,Emergency,Short-Johnson Clinic,New Seanchester,AK,In-Network
+PRV00073,2913110546,Dr. Browning,Pediatrics,Phillips-Tucker Clinic,Cannonshire,MT,In-Network
+PRV00074,8373389565,Dr. Parker,General Practice,Fitzpatrick-Richardson Clinic,Suzanneton,KS,In-Network
+PRV00075,4411839933,Dr. Smith,Emergency,"Obrien, Ballard and Harris Clinic",Jamiemouth,FL,Out-of-Network
+PRV00076,4258135363,Dr. Conner,Emergency,Massey-Leonard Clinic,Bradyview,GA,Out-of-Network
+PRV00077,1757459899,Dr. Johnson,Orthopedics,"Harris, Ho and Small Clinic",Boyerberg,ID,Out-of-Network
+PRV00078,2459827724,Dr. Moore,General Practice,Peters-Ward Clinic,West Bruce,VI,In-Network
+PRV00079,2654882108,Dr. Wilson,Neurology,Jones-Johnson Clinic,New Meagan,PA,Out-of-Network
+PRV00080,1126260523,Dr. Martinez,Neurology,Berry-Gonzales Clinic,New Melissa,MT,Out-of-Network
+PRV00081,9992542987,Dr. Cooke,Cardiology,"Nolan, Mason and Sanders Clinic",East Kevin,AS,Out-of-Network
+PRV00082,7562188742,Dr. Adams,Oncology,"Gibson, Russell and Beck Clinic",North Samantha,AR,Out-of-Network
+PRV00083,6741249963,Dr. Mendoza,General Practice,White-Smith Clinic,Hopkinschester,MO,In-Network
+PRV00084,6766116285,Dr. Wong,Oncology,Buchanan Ltd Clinic,Christopherport,WI,Out-of-Network
+PRV00085,3776307472,Dr. Miller,Oncology,"Palmer, Castro and Baker Clinic",North Samuelburgh,DE,Out-of-Network
+PRV00086,2395478176,Dr. Farrell,Oncology,"Waller, Garrison and Adams Clinic",Smithville,MS,Out-of-Network
+PRV00087,9645618524,Dr. Peters,Oncology,"Williamson, Irwin and Reyes Clinic",East Gary,MO,In-Network
+PRV00088,9771526294,Dr. Sanchez,Pediatrics,"Williams, Larson and Rodriguez Clinic",East Sarahbury,AR,In-Network
+PRV00089,8792211623,Dr. Page,Pediatrics,Perry-Marsh Clinic,West Alison,KY,Out-of-Network
+PRV00090,9419843319,Dr. Harrison,Pediatrics,"Miller, Sheppard and Gordon Clinic",Lopezberg,GA,Out-of-Network
+PRV00091,5496185011,Dr. Chavez,Neurology,Wong-Krueger Clinic,West Andrewville,NJ,Out-of-Network
+PRV00092,4545759611,Dr. Meyer,Pediatrics,Beltran-Harris Clinic,Brittanymouth,CO,In-Network
+PRV00093,6644856586,Dr. Anderson,Oncology,Howard-Harrison Clinic,South Amandaton,NV,Out-of-Network
+PRV00094,3409052362,Dr. Grant,Oncology,Williams-Gallegos Clinic,Johnnyport,NM,Out-of-Network
+PRV00095,7630213027,Dr. Liu,Emergency,Austin Group Clinic,Port Christopher,WA,In-Network
+PRV00096,3556584068,Dr. Walker,Neurology,Donovan-Dawson Clinic,North Christopherfurt,PR,Out-of-Network
+PRV00097,2946900326,Dr. Harris,General Practice,"Ortega, Sloan and Morse Clinic",South Charles,OR,In-Network
+PRV00098,5410046887,Dr. Nelson,Neurology,Sherman-Alvarado Clinic,Masseymouth,NC,Out-of-Network
+PRV00099,9360765307,Dr. Lewis,Emergency,"Lucas, Martinez and Peters Clinic",Port Michaelland,VI,Out-of-Network
+PRV00100,6754207488,Dr. Harris,Emergency,Smith-Stewart Clinic,Port Kelli,NH,Out-of-Network
+PRV00101,9547096454,Dr. Oconnor,Pediatrics,Mcgee LLC Clinic,Port Jennifer,IL,In-Network
+PRV00102,9578130522,Dr. Hill,Pediatrics,"Smith, Hartman and Evans Clinic",Theresatown,MA,In-Network
+PRV00103,9243651464,Dr. Randall,Emergency,Mack-Foster Clinic,Lake Cynthiaberg,GU,In-Network
+PRV00104,9897124543,Dr. Ramos,Emergency,"Walker, Gilbert and Miller Clinic",West Sabrina,FM,Out-of-Network
+PRV00105,4090035496,Dr. Black,Orthopedics,Brooks Ltd Clinic,Mccannberg,MI,Out-of-Network
+PRV00106,4679301488,Dr. Porter,Emergency,"Watkins, Winters and Francis Clinic",Jeffreyville,MN,Out-of-Network
+PRV00107,3637459347,Dr. Freeman,Cardiology,Martinez-Humphrey Clinic,Payneburgh,RI,Out-of-Network
+PRV00108,1883610307,Dr. Williams,Oncology,Walker-Smith Clinic,Robertshaven,VA,In-Network
+PRV00109,8375229426,Dr. Trevino,General Practice,"Burns, Charles and Todd Clinic",Lake Wendy,RI,In-Network
+PRV00110,1588247452,Dr. Anderson,Oncology,Kelly-Johns Clinic,Chaseton,WA,Out-of-Network
+PRV00111,1372402926,Dr. French,Cardiology,Anthony Inc Clinic,Lake Jenniferstad,WY,In-Network
+PRV00112,1895053253,Dr. Cooper,Cardiology,Villanueva-Roberts Clinic,Lake Lindsayside,NJ,Out-of-Network
+PRV00113,5981933562,Dr. Sanchez,General Practice,"Mcdonald, Johnson and Sanchez Clinic",Port Scottview,MH,Out-of-Network
+PRV00114,3332830377,Dr. Davidson,Cardiology,Clark Ltd Clinic,Rodriguezmouth,VT,In-Network
+PRV00115,2892568411,Dr. Wu,General Practice,"Huffman, Lane and Vaughn Clinic",Carterfort,GU,In-Network
+PRV00116,9907309898,Dr. Levine,Orthopedics,Aguilar LLC Clinic,Montesmouth,ND,In-Network
+PRV00117,1979152282,Dr. Clay,General Practice,Leach Inc Clinic,Dawnview,RI,Out-of-Network
+PRV00118,5118065190,Dr. Hensley,Pediatrics,"King, Delgado and James Clinic",North Robert,CT,In-Network
+PRV00119,1938954251,Dr. Washington,Pediatrics,"Cruz, Long and Craig Clinic",South Joel,CO,In-Network
+PRV00120,5631817651,Dr. Jones,Orthopedics,Johnson PLC Clinic,East Ryan,CO,In-Network
+PRV00121,3650570219,Dr. Brown,General Practice,"Thompson, Austin and Lee Clinic",Proctorland,AR,Out-of-Network
+PRV00122,2307262701,Dr. Smith,Pediatrics,"Thompson, Snyder and Nguyen Clinic",Port Clinton,WY,In-Network
+PRV00123,3157530915,Dr. Barnes,Pediatrics,Woods-Becker Clinic,East Kristina,MP,Out-of-Network
+PRV00124,5931754270,Dr. Johnson,Emergency,"Johnson, Beard and Gregory Clinic",Rubioburgh,IN,In-Network
+PRV00125,9687457026,Dr. Velazquez,Oncology,"Johnson, Arroyo and Beck Clinic",Diazfurt,FL,Out-of-Network
+PRV00126,1937432496,Dr. Wagner,Pediatrics,Norris and Sons Clinic,Johnstad,NJ,Out-of-Network
+PRV00127,1185641934,Dr. Cooper,Orthopedics,"Garcia, Smith and Williams Clinic",East Tyler,KY,Out-of-Network
+PRV00128,9258664274,Dr. Dalton,General Practice,Garcia Ltd Clinic,West Valerie,MD,In-Network
+PRV00129,9688085643,Dr. Case,Orthopedics,"Jones, Jones and Cross Clinic",North Whitneyberg,OH,In-Network
+PRV00130,3359965087,Dr. Martin,Neurology,Hoffman and Sons Clinic,Muellerside,MO,Out-of-Network
+PRV00131,8143617199,Dr. Gallagher,Cardiology,Cruz Inc Clinic,Lake Bobby,PA,In-Network
+PRV00132,4841415303,Dr. Rhodes,Pediatrics,"Burgess, Anderson and Williams Clinic",South Fernandoville,IA,In-Network
+PRV00133,6654096030,Dr. Ayala,Oncology,"Page, Martinez and Huynh Clinic",Port Patrickborough,VA,In-Network
+PRV00134,7651753931,Dr. Warren,Neurology,Pugh and Sons Clinic,Jamesmouth,NE,Out-of-Network
+PRV00135,2955265685,Dr. Murphy,Oncology,Hawkins-Thomas Clinic,Port Russell,MI,In-Network
+PRV00136,4704182394,Dr. Hill,Pediatrics,Welch-Griffith Clinic,North Terrencestad,KY,Out-of-Network
+PRV00137,8078100730,Dr. Taylor,Orthopedics,Jones-Orozco Clinic,West Heidi,ID,In-Network
+PRV00138,4908340293,Dr. Cunningham,Orthopedics,Wallace LLC Clinic,East Stevenborough,VT,Out-of-Network
+PRV00139,8201526905,Dr. White,Orthopedics,"Moore, Miller and Weber Clinic",Benjamintown,VT,In-Network
+PRV00140,8807028425,Dr. Weber,Cardiology,"Wall, Figueroa and Jones Clinic",West Mark,OK,In-Network
+PRV00141,1598573240,Dr. Taylor,Cardiology,Williams Inc Clinic,Kristibury,AL,Out-of-Network
+PRV00142,3717103103,Dr. Russell,Emergency,"Garner, Miller and Jordan Clinic",New Breannastad,MA,In-Network
+PRV00143,2036184518,Dr. Baker,Neurology,"Thomas, Franklin and Williams Clinic",East Adam,CT,Out-of-Network
+PRV00144,1888002005,Dr. Mitchell,Oncology,"Kelly, Sexton and Ponce Clinic",South Phillip,NM,Out-of-Network
+PRV00145,4107853313,Dr. Savage,Orthopedics,Romero LLC Clinic,New Tamaraberg,IL,Out-of-Network
+PRV00146,1216136128,Dr. Hubbard,Orthopedics,Solomon-Jones Clinic,New Rebeccabury,PR,Out-of-Network
+PRV00147,8458059032,Dr. Morales,Pediatrics,Garcia Group Clinic,North Justinport,AZ,Out-of-Network
+PRV00148,1676092864,Dr. Brown,General Practice,Morrow-Graham Clinic,Stephaniefurt,AS,Out-of-Network
+PRV00149,3713200216,Dr. Walsh,Oncology,Ramos-Pope Clinic,North Rebekah,AS,Out-of-Network
+PRV00150,2523542362,Dr. Foster,General Practice,Pearson Inc Clinic,Meredithland,NE,Out-of-Network
+PRV00151,4674544083,Dr. Wood,General Practice,"Ramirez, Russell and Hale Clinic",South Jennifermouth,GA,Out-of-Network
+PRV00152,1600803747,Dr. Harrison,Emergency,Garcia-Sanchez Clinic,Hollandberg,NJ,Out-of-Network
+PRV00153,9442751339,Dr. Jacobs,Cardiology,"Jones, Hall and Patterson Clinic",South Sabrina,KS,In-Network
+PRV00154,4863392932,Dr. Miller,Neurology,Jones LLC Clinic,Oliverstad,CT,In-Network
+PRV00155,3904267421,Dr. Jenkins,Cardiology,Martinez-Summers Clinic,West Michael,FL,In-Network
+PRV00156,2172517215,Dr. Martinez,Pediatrics,Anderson LLC Clinic,Lake Kristy,MP,Out-of-Network
+PRV00157,3086348277,Dr. Chapman,Orthopedics,"Rodriguez, Johnson and Kent Clinic",Huntmouth,WV,Out-of-Network
+PRV00158,9977217352,Dr. Garcia,Oncology,"Friedman, Morgan and White Clinic",Loganside,OR,Out-of-Network
+PRV00159,1092307807,Dr. Cook,General Practice,Bishop-Smith Clinic,New Paulstad,DE,Out-of-Network
+PRV00160,2279006275,Dr. Williams,Emergency,"Contreras, Alexander and Miller Clinic",West Michael,SD,In-Network
+PRV00161,8083239769,Dr. Kirby,Cardiology,"Mcdaniel, Rodriguez and Hayden Clinic",New Taylor,MA,In-Network
+PRV00162,7577139844,Dr. Burgess,Cardiology,Wolf-Davis Clinic,North Vincentbury,ME,Out-of-Network
+PRV00163,9593925397,Dr. Ramos,Cardiology,Hartman PLC Clinic,East Sheila,AZ,Out-of-Network
+PRV00164,3483647015,Dr. Lee,General Practice,Greene Ltd Clinic,West Leslietown,AK,Out-of-Network
+PRV00165,6286211480,Dr. Acosta,Oncology,Duncan Ltd Clinic,Garciamouth,DC,Out-of-Network
+PRV00166,6147209873,Dr. Reed,Orthopedics,Travis Inc Clinic,Lisachester,WY,Out-of-Network
+PRV00167,1681921978,Dr. Jones,Neurology,Gilbert Ltd Clinic,Lake Douglas,AK,Out-of-Network
+PRV00168,7415646301,Dr. Sexton,Oncology,Green-Alvarado Clinic,Eatonborough,LA,Out-of-Network
+PRV00169,5234527517,Dr. Santana,Cardiology,"Sloan, Evans and Morrison Clinic",Caitlinberg,IN,Out-of-Network
+PRV00170,9392578290,Dr. Stanton,General Practice,Guzman-West Clinic,Lake Nicole,GU,In-Network
+PRV00171,1751645402,Dr. Olson,Pediatrics,"Ellis, Williams and Contreras Clinic",Port Katherine,AS,In-Network
+PRV00172,2493600470,Dr. Arnold,Emergency,"Garcia, Richardson and Lewis Clinic",North Erin,AR,In-Network
+PRV00173,4667342440,Dr. Morales,Pediatrics,"Graham, Vasquez and Mcdonald Clinic",Christopherview,AR,In-Network
+PRV00174,2643538677,Dr. Harvey,General Practice,Berry and Sons Clinic,Marieville,AL,In-Network
+PRV00175,1102974894,Dr. Sanders,Neurology,"Bell, Murphy and Williams Clinic",Port Wandamouth,AL,In-Network
+PRV00176,5374624449,Dr. Brooks,Neurology,"Wagner, Davidson and Martinez Clinic",North Rita,MI,Out-of-Network
+PRV00177,6877374059,Dr. Mcdonald,Cardiology,Gray-Jackson Clinic,Brownhaven,CT,In-Network
+PRV00178,5043130314,Dr. Black,Pediatrics,"Howard, Davis and Morrison Clinic",Lake Melissachester,ME,In-Network
+PRV00179,2920844771,Dr. Carr,Emergency,"Chen, Johnson and Johnston Clinic",South Curtis,DC,Out-of-Network
+PRV00180,7801516719,Dr. Washington,Oncology,"Baker, Moore and Thomas Clinic",Guerrabury,DE,Out-of-Network
+PRV00181,6512365975,Dr. Boyd,General Practice,"Stokes, Morris and Harrison Clinic",West Lori,NH,In-Network
+PRV00182,1715790603,Dr. Mcdowell,General Practice,Hall-Hernandez Clinic,Sanchezbury,MA,In-Network
+PRV00183,3173028322,Dr. Gonzalez,Cardiology,Andrade Ltd Clinic,Port Paul,VT,In-Network
+PRV00184,6804903643,Dr. Aguirre,Neurology,Yates-Ferguson Clinic,Leachton,AS,Out-of-Network
+PRV00185,9258512659,Dr. Garcia,Pediatrics,Fisher Group Clinic,Lake Krystalborough,PR,In-Network
+PRV00186,5598582486,Dr. Ward,Cardiology,Arnold PLC Clinic,East April,KY,In-Network
+PRV00187,8980865173,Dr. Ortiz,Emergency,Lopez Group Clinic,Port Rachel,MN,In-Network
+PRV00188,8635094738,Dr. Lin,General Practice,Nguyen PLC Clinic,New Brian,VA,Out-of-Network
+PRV00189,3373777533,Dr. King,Emergency,"Ellis, Long and Watson Clinic",Lake Bethanystad,NC,Out-of-Network
+PRV00190,4151986798,Dr. Wagner,General Practice,"Taylor, Brown and Camacho Clinic",West Troymouth,PW,Out-of-Network
+PRV00191,8401081320,Dr. King,Pediatrics,Thomas Inc Clinic,South Crystalstad,TN,Out-of-Network
+PRV00192,2599446140,Dr. Adams,Cardiology,"Lopez, Miller and Nelson Clinic",Lake Jamesville,OH,In-Network
+PRV00193,6801866897,Dr. Stewart,Oncology,"Sanders, Cummings and Meza Clinic",Alyssatown,ID,In-Network
+PRV00194,9760336098,Dr. Mitchell,Orthopedics,"Hill, Smith and Ballard Clinic",Tinaborough,MS,Out-of-Network
+PRV00195,9511389850,Dr. Becker,General Practice,Carrillo Ltd Clinic,Lake Todd,UT,In-Network
+PRV00196,4937181106,Dr. Lawrence,Emergency,Burns PLC Clinic,Martineztown,MD,In-Network
+PRV00197,1180501376,Dr. Mccoy,Neurology,Coffey-Ramirez Clinic,Tinaberg,NY,In-Network
+PRV00198,9257937565,Dr. Fox,Pediatrics,"Stephenson, Matthews and Bradford Clinic",Martinton,RI,Out-of-Network
+PRV00199,5484654687,Dr. Chapman,General Practice,Weaver LLC Clinic,Robertport,TX,Out-of-Network
+PRV00200,8527276594,Dr. Owens,Emergency,Lopez-Hill Clinic,Lake Vickie,CO,In-Network
+PRV00201,8466972755,Dr. Johnson,Pediatrics,Parker Group Clinic,Daisymouth,PR,In-Network
+PRV00202,8885567855,Dr. Patterson,Emergency,Wallace PLC Clinic,Jeffreystad,MA,Out-of-Network
+PRV00203,3948945580,Dr. Dean,Pediatrics,Beard and Sons Clinic,Morenoside,ME,Out-of-Network
+PRV00204,2435351310,Dr. Mendoza,Oncology,"Sherman, Hill and Martinez Clinic",Kellymouth,VT,In-Network
+PRV00205,9481742774,Dr. Miller,Emergency,Acosta PLC Clinic,South Brad,SC,Out-of-Network
+PRV00206,7616263418,Dr. Wilson,Cardiology,"Bean, Smith and Lowe Clinic",New Richard,NV,In-Network
+PRV00207,6936262620,Dr. Miller,Cardiology,"Stone, Rodriguez and Peterson Clinic",Phillipsland,RI,Out-of-Network
+PRV00208,8024525776,Dr. Gonzalez,Emergency,"Nixon, Rodriguez and Hernandez Clinic",Ryanstad,OK,In-Network
+PRV00209,6709828750,Dr. Owens,Cardiology,"Pena, Terrell and Smith Clinic",Lake Justinburgh,MI,Out-of-Network
+PRV00210,6554191235,Dr. Dunn,General Practice,"Rowland, Wagner and Tate Clinic",West Dennis,MI,Out-of-Network
+PRV00211,2079166488,Dr. Mason,General Practice,Smith LLC Clinic,Rebeccamouth,NE,In-Network
+PRV00212,5144746448,Dr. Johnson,General Practice,"Wilkinson, Bowman and Montgomery Clinic",Tranland,DE,In-Network
+PRV00213,5534968101,Dr. Hernandez,Neurology,"Molina, Rodgers and Gordon Clinic",Stephanieland,ME,In-Network
+PRV00214,2568847361,Dr. Green,Oncology,"Harris, Ramirez and King Clinic",South Jason,ND,Out-of-Network
+PRV00215,8432938613,Dr. Stephens,General Practice,Sherman-Smith Clinic,Port Brittanyside,CT,In-Network
+PRV00216,9632452727,Dr. Blankenship,Orthopedics,Harris-Brown Clinic,Guerrerofurt,NE,In-Network
+PRV00217,2682239565,Dr. Allen,Neurology,"Harding, Campbell and Allen Clinic",South Cheryl,IL,In-Network
+PRV00218,2578753806,Dr. Adams,Orthopedics,Brown PLC Clinic,East Carlosburgh,OR,In-Network
+PRV00219,9844705057,Dr. Kennedy,Orthopedics,Adkins Group Clinic,Makaylafurt,CA,Out-of-Network
+PRV00220,9183252449,Dr. Ingram,Pediatrics,Gallagher-Mclean Clinic,Connieton,GA,In-Network
+PRV00221,3204388366,Dr. Smith,Oncology,Yoder LLC Clinic,Port Caleb,ME,Out-of-Network
+PRV00222,9084981620,Dr. Caldwell,Pediatrics,Berry-Rivas Clinic,Port Timothyville,MH,Out-of-Network
+PRV00223,4191537083,Dr. Harris,Pediatrics,"Braun, Johnson and White Clinic",Robinsonview,ME,Out-of-Network
+PRV00224,5764482370,Dr. Carney,Cardiology,Griffith PLC Clinic,Tammyland,IN,In-Network
+PRV00225,9636775317,Dr. Jenkins,Oncology,"Graham, Bryant and Roberts Clinic",Trevortown,MH,Out-of-Network
+PRV00226,7188138661,Dr. Matthews,Pediatrics,"Buck, Crosby and Jackson Clinic",Port David,OH,Out-of-Network
+PRV00227,9550592104,Dr. Schmidt,Orthopedics,Beltran Ltd Clinic,North Timothy,CT,Out-of-Network
+PRV00228,2305250219,Dr. Moss,Oncology,Willis Inc Clinic,Whitefort,NC,In-Network
+PRV00229,3660904612,Dr. Bell,Oncology,"Adkins, Miller and Downs Clinic",Kimberlyburgh,KS,Out-of-Network
+PRV00230,8894746916,Dr. Moore,Emergency,Miller LLC Clinic,Robinton,MA,Out-of-Network
+PRV00231,5012318091,Dr. Turner,Cardiology,Miller Inc Clinic,New Carlosfort,VT,In-Network
+PRV00232,3804474982,Dr. Williams,Cardiology,"Mccall, Morales and Oneal Clinic",Tarafurt,DC,Out-of-Network
+PRV00233,1685903670,Dr. Rodriguez,Orthopedics,Mcdaniel-Rangel Clinic,Santiagoport,MS,Out-of-Network
+PRV00234,5409114165,Dr. Hale,Neurology,"Collins, Adams and Simmons Clinic",West Jenniferborough,UT,In-Network
+PRV00235,3488233810,Dr. Moon,Oncology,Duarte LLC Clinic,Jonathontown,FL,In-Network
+PRV00236,4300308661,Dr. Terrell,Cardiology,Vega-Peters Clinic,Cookborough,KY,Out-of-Network
+PRV00237,5198753163,Dr. Zuniga,Emergency,Jordan PLC Clinic,East Jonathan,TN,In-Network
+PRV00238,3119330639,Dr. Taylor,Cardiology,"Lambert, Mcpherson and Peck Clinic",Lake Jenniferside,AR,In-Network
+PRV00239,1926141138,Dr. Stewart,Oncology,"Sullivan, Mayer and Trevino Clinic",West Jacquelineport,CA,In-Network
+PRV00240,5185216539,Dr. Lester,Emergency,"Combs, Kelly and Ware Clinic",Port Heather,PR,Out-of-Network
+PRV00241,8196426059,Dr. Huber,Cardiology,"Evans, Arias and Kennedy Clinic",North Samuelhaven,VA,In-Network
+PRV00242,5488798283,Dr. Martin,Cardiology,Warner-Li Clinic,Shawborough,MP,In-Network
+PRV00243,7023839748,Dr. Gutierrez,Orthopedics,"Woods, Cochran and Richard Clinic",Susanside,WY,In-Network
+PRV00244,2748251608,Dr. Payne,Orthopedics,"Weaver, Lara and Owens Clinic",Karahaven,MI,In-Network
+PRV00245,1755861209,Dr. May,Neurology,Hernandez-Marquez Clinic,East Jaime,TN,In-Network
+PRV00246,8235580814,Dr. Ramirez,Orthopedics,Lin Inc Clinic,South Larry,MO,Out-of-Network
+PRV00247,9131295435,Dr. Gross,General Practice,Padilla-Brown Clinic,Port Sabrina,NH,In-Network
+PRV00248,2652310080,Dr. Clayton,Orthopedics,Lee-Rodriguez Clinic,Port Sarah,RI,Out-of-Network
+PRV00249,4066214250,Dr. Ferguson,Neurology,Ramos and Sons Clinic,Kevinhaven,VT,Out-of-Network
+PRV00250,1554555384,Dr. Nguyen,Neurology,Haley-Sanchez Clinic,Jayshire,PW,Out-of-Network
+PRV00251,1950474044,Dr. Gutierrez,Cardiology,Griffin and Sons Clinic,Sarahfort,IA,In-Network
+PRV00252,9809697768,Dr. Alvarez,Cardiology,Curry-Wood Clinic,North Robertchester,KY,In-Network
+PRV00253,6557369046,Dr. Wallace,General Practice,Reyes Group Clinic,South Davidstad,GU,In-Network
+PRV00254,7173932061,Dr. Yang,Cardiology,Adams LLC Clinic,North Tonitown,OK,Out-of-Network
+PRV00255,1449994524,Dr. Whitney,General Practice,Hernandez-Miles Clinic,Holtport,OR,Out-of-Network
+PRV00256,7509357428,Dr. Arnold,Pediatrics,Baker Inc Clinic,East Wanda,FL,Out-of-Network
+PRV00257,3594280876,Dr. Moore,Cardiology,"Hinton, Hahn and Thompson Clinic",West Kathryn,HI,In-Network
+PRV00258,2385839693,Dr. White,Pediatrics,Moore PLC Clinic,New Keith,NC,Out-of-Network
+PRV00259,4525141427,Dr. Rodriguez,Orthopedics,"Snyder, Caldwell and Ramirez Clinic",Adamtown,GA,Out-of-Network
+PRV00260,3616238474,Dr. Wilson,Pediatrics,Avery and Sons Clinic,North Benjaminport,VT,Out-of-Network
+PRV00261,2515843898,Dr. Gomez,Orthopedics,"Turner, Chang and Jarvis Clinic",West Brianmouth,AS,Out-of-Network
+PRV00262,9187113017,Dr. Smith,Emergency,Cherry-Jones Clinic,Amyburgh,WA,In-Network
+PRV00263,4994630521,Dr. Daniels,Pediatrics,Downs PLC Clinic,East Christianside,MH,In-Network
+PRV00264,8891615757,Dr. Haas,General Practice,Wiggins-Valdez Clinic,New Andrew,SC,Out-of-Network
+PRV00265,6642111002,Dr. Allen,Oncology,Mason and Sons Clinic,Port Karenville,KS,In-Network
+PRV00266,2539714336,Dr. Hoffman,General Practice,"Chavez, Green and Henry Clinic",Susanfurt,CO,Out-of-Network
+PRV00267,1440535405,Dr. Green,Cardiology,"Harris, Spears and Wheeler Clinic",Harrisonport,NV,Out-of-Network
+PRV00268,2680915092,Dr. Garcia,Neurology,Guzman-Jackson Clinic,Allenshire,AS,In-Network
+PRV00269,8973023684,Dr. Brown,Oncology,Perez-Cox Clinic,New Dustin,MD,In-Network
+PRV00270,4437558237,Dr. Jackson,Pediatrics,Carney-Campbell Clinic,Lake Erin,TN,In-Network
+PRV00271,9409920865,Dr. Bonilla,Oncology,Schmidt Group Clinic,Greenton,OK,In-Network
+PRV00272,7791315927,Dr. Lopez,Neurology,Ferguson and Sons Clinic,Nicholasburgh,NH,In-Network
+PRV00273,6473530884,Dr. Porter,General Practice,Hernandez-Jones Clinic,North Anna,OR,In-Network
+PRV00274,3370079968,Dr. Vance,Emergency,"Johnson, Williams and Freeman Clinic",Riveratown,DC,In-Network
+PRV00275,4443341898,Dr. Sims,General Practice,Pollard Ltd Clinic,West Kellyburgh,FM,In-Network
+PRV00276,7116353200,Dr. Ramos,Neurology,Smith-Cox Clinic,Olsonport,LA,Out-of-Network
+PRV00277,5476144378,Dr. Smith,Oncology,"Morales, Zuniga and Austin Clinic",West Kennethborough,NV,Out-of-Network
+PRV00278,5012862693,Dr. Adams,General Practice,George Group Clinic,Haneychester,CO,Out-of-Network
+PRV00279,1244964407,Dr. Watkins,General Practice,Ross-Harvey Clinic,Emilyport,NC,In-Network
+PRV00280,9924362646,Dr. Wright,Orthopedics,"Willis, Parks and Hayes Clinic",West Ashleymouth,DE,Out-of-Network
+PRV00281,5780775365,Dr. Mcbride,Orthopedics,Wilkinson Ltd Clinic,Lake Ronald,CT,Out-of-Network
+PRV00282,3376161949,Dr. Nelson,Orthopedics,Williams PLC Clinic,North Heatherville,FL,In-Network
+PRV00283,7800178975,Dr. Bailey,Pediatrics,Rollins-Trevino Clinic,Port Johnberg,FM,Out-of-Network
+PRV00284,8571339592,Dr. Ramirez,Neurology,Garrett PLC Clinic,East Katrinabury,KS,Out-of-Network
+PRV00285,4925586266,Dr. Mcdowell,General Practice,"May, Conway and Richards Clinic",South Kimberlyfurt,AR,Out-of-Network
+PRV00286,9931628143,Dr. Robinson,Neurology,Burton Inc Clinic,Port Cassandra,VT,Out-of-Network
+PRV00287,2334749754,Dr. Hernandez,Orthopedics,Munoz-Evans Clinic,Garyhaven,OH,In-Network
+PRV00288,7488816642,Dr. Lopez,Oncology,Foster Group Clinic,Valdezmouth,CA,Out-of-Network
+PRV00289,1589900485,Dr. Nguyen,General Practice,Webster Ltd Clinic,Port Danielbury,TX,Out-of-Network
+PRV00290,7545088005,Dr. Armstrong,Pediatrics,Mahoney-Washington Clinic,Moraview,NJ,In-Network
+PRV00291,6158525166,Dr. Brown,Emergency,Thomas-Mathis Clinic,East Brenda,VT,Out-of-Network
+PRV00292,4914991388,Dr. Anthony,Pediatrics,Jones Group Clinic,Larryhaven,NV,Out-of-Network
+PRV00293,7498717126,Dr. Cox,Pediatrics,Martin-Parsons Clinic,Jonathanfort,KS,In-Network
+PRV00294,8494396040,Dr. Andrade,General Practice,"Wade, Cantu and Sparks Clinic",South Jordan,OH,In-Network
+PRV00295,2354323374,Dr. Kaiser,Neurology,Banks-Edwards Clinic,Navarroport,WY,Out-of-Network
+PRV00296,3738334979,Dr. Haas,Neurology,Barrett-Ramos Clinic,Lake Lindabury,DE,Out-of-Network
+PRV00297,7666893486,Dr. Romero,Orthopedics,"Fernandez, Sparks and Hawkins Clinic",Stephanieton,KY,Out-of-Network
+PRV00298,5124314951,Dr. Fitzpatrick,Neurology,"Guzman, Rush and Brown Clinic",Alexland,TX,In-Network
+PRV00299,3384425653,Dr. Ashley,Neurology,Stevens-Rollins Clinic,Yangmouth,NC,In-Network
+PRV00300,8452435356,Dr. Snyder,Pediatrics,"Ballard, Caldwell and King Clinic",Port David,NV,Out-of-Network
+PRV00301,4049356890,Dr. Lester,Cardiology,"Alexander, Flores and Potter Clinic",New Randall,CT,Out-of-Network
+PRV00302,7552700826,Dr. Padilla,Orthopedics,"Allen, Thomas and Jackson Clinic",Martinshire,CO,Out-of-Network
+PRV00303,4536329892,Dr. Brown,General Practice,Gilbert-Hamilton Clinic,Shawburgh,MH,In-Network
+PRV00304,7167815128,Dr. Sutton,Neurology,Miller and Sons Clinic,North Dylan,MH,In-Network
+PRV00305,4239484648,Dr. Johnson,Orthopedics,Taylor Group Clinic,Shannonfort,NV,In-Network
+PRV00306,3477757638,Dr. Simmons,Oncology,"Kaufman, Hoffman and Sullivan Clinic",Latashashire,ND,Out-of-Network
+PRV00307,4413216425,Dr. Gibson,General Practice,Jackson-Pitts Clinic,Lake Paulside,ID,Out-of-Network
+PRV00308,1437419561,Dr. Lowe,Orthopedics,"Madden, Liu and Weaver Clinic",Osbornshire,LA,Out-of-Network
+PRV00309,1140446865,Dr. Reid,Neurology,"Walker, Gould and Baker Clinic",Garnerville,AS,In-Network
+PRV00310,9056045212,Dr. Carpenter,General Practice,"Hernandez, Garcia and Boyd Clinic",New Margaretview,IA,Out-of-Network
+PRV00311,9923333544,Dr. Cain,Emergency,"Velasquez, Little and Porter Clinic",Harrisland,AK,In-Network
+PRV00312,3093428687,Dr. Rojas,Emergency,Walker-Schaefer Clinic,Lake Charlotteport,CT,In-Network
+PRV00313,7638091521,Dr. Cole,Orthopedics,"Clarke, Green and Costa Clinic",New Amandaview,MN,Out-of-Network
+PRV00314,8667392257,Dr. Grant,Emergency,Fitzgerald and Sons Clinic,West Shane,KY,In-Network
+PRV00315,3808174862,Dr. Smith,Cardiology,"Beck, Nichols and Graham Clinic",Novaktown,MT,In-Network
+PRV00316,3789769596,Dr. Melton,Emergency,Dennis-Harris Clinic,Port Robert,KS,Out-of-Network
+PRV00317,7506532979,Dr. Rodriguez,Orthopedics,Dyer-Davidson Clinic,Richardmouth,FL,Out-of-Network
+PRV00318,5372578103,Dr. Adkins,Pediatrics,Gonzalez-Stephens Clinic,Perryside,NJ,Out-of-Network
+PRV00319,6402106572,Dr. Bray,Oncology,Blackwell-Freeman Clinic,Timothyton,KY,Out-of-Network
+PRV00320,8175322580,Dr. Young,Neurology,"Alexander, Mejia and Munoz Clinic",Nunezborough,IL,Out-of-Network
+PRV00321,4585044253,Dr. Hogan,Cardiology,Smith-Acosta Clinic,Barryfort,TN,In-Network
+PRV00322,4358631320,Dr. Bonilla,Cardiology,Adams Inc Clinic,Port Ryan,MN,Out-of-Network
+PRV00323,3428249414,Dr. Ray,General Practice,Blankenship-Reyes Clinic,North Jamie,TX,In-Network
+PRV00324,5213453466,Dr. Ochoa,Pediatrics,Harding PLC Clinic,Lake Tiffany,IL,In-Network
+PRV00325,1001371572,Dr. Sherman,Orthopedics,Williams-Jones Clinic,Rodriguezport,MD,Out-of-Network
+PRV00326,8533657600,Dr. Griffin,Emergency,Jacobson-Price Clinic,Isaacland,UT,In-Network
+PRV00327,4759966028,Dr. Williams,General Practice,"Thompson, Torres and Shaw Clinic",New Sherimouth,MS,Out-of-Network
+PRV00328,3829957162,Dr. Morgan,Neurology,Joseph and Sons Clinic,Rosschester,KY,Out-of-Network
+PRV00329,6640968227,Dr. Lopez,Pediatrics,"Allen, Bell and Powers Clinic",Cindyside,WI,In-Network
+PRV00330,8321637110,Dr. Barnes,Emergency,"Bryant, Wright and Lewis Clinic",Kimberlyberg,HI,Out-of-Network
+PRV00331,5148545424,Dr. Leonard,General Practice,"Blackburn, Russell and Johnson Clinic",Maynardbury,RI,Out-of-Network
+PRV00332,1512691202,Dr. Perez,General Practice,"Bell, Ortiz and Salinas Clinic",East Meganview,TN,Out-of-Network
+PRV00333,7286337346,Dr. Murray,General Practice,"Reese, Brown and Arellano Clinic",Port Teresa,TX,In-Network
+PRV00334,7519267421,Dr. Brown,Cardiology,"Ward, Taylor and Rodriguez Clinic",Lake Johnstad,PA,Out-of-Network
+PRV00335,9907814142,Dr. Melton,Cardiology,Young Ltd Clinic,West Jared,TX,Out-of-Network
+PRV00336,6538687123,Dr. Moore,Oncology,"Hicks, Miller and Lloyd Clinic",Claytonton,MP,Out-of-Network
+PRV00337,5596115654,Dr. Barber,Cardiology,"Cox, Massey and Melendez Clinic",North Brandon,ND,In-Network
+PRV00338,8743473584,Dr. Mccann,Neurology,Medina Inc Clinic,Blackberg,SC,Out-of-Network
+PRV00339,6602682452,Dr. Black,Oncology,Wilson PLC Clinic,North Marciaberg,WA,Out-of-Network
+PRV00340,3679867846,Dr. Garcia,Neurology,"Gutierrez, Scott and Waters Clinic",Laurieport,NJ,Out-of-Network
+PRV00341,4478574357,Dr. Walker,Cardiology,Forbes-Berry Clinic,Louisland,HI,In-Network
+PRV00342,4335661863,Dr. Mason,Orthopedics,Ponce Group Clinic,Smithfurt,FM,Out-of-Network
+PRV00343,4011127340,Dr. Moss,Pediatrics,Jackson Group Clinic,East Edward,CO,In-Network
+PRV00344,3217874837,Dr. Mcdonald,General Practice,Smith-Sanford Clinic,Terryview,MP,Out-of-Network
+PRV00345,7265511009,Dr. Hunt,Oncology,Skinner-Swanson Clinic,Alexaport,OK,In-Network
+PRV00346,1879611913,Dr. Knight,Orthopedics,Ross and Sons Clinic,East Courtneyville,IL,In-Network
+PRV00347,1600132230,Dr. Johnson,Cardiology,Velasquez PLC Clinic,Jacksonbury,TN,Out-of-Network
+PRV00348,2459591880,Dr. Rogers,Orthopedics,Hammond Group Clinic,Kristinfurt,AR,In-Network
+PRV00349,4413757212,Dr. Harvey,General Practice,"Serrano, Smith and Whitaker Clinic",South Jeremyton,NH,Out-of-Network
+PRV00350,2527952315,Dr. Ryan,Orthopedics,Rodriguez-Robinson Clinic,Martinezland,CA,Out-of-Network
+PRV00351,6119804838,Dr. White,Cardiology,Morrow Group Clinic,South Maureen,CA,In-Network
+PRV00352,4106649606,Dr. Moore,Emergency,Lee-Church Clinic,Port Aaron,MO,In-Network
+PRV00353,4220178790,Dr. Lin,Cardiology,"Young, Johnston and Mendoza Clinic",Williamstown,DE,In-Network
+PRV00354,6969832108,Dr. Haley,Emergency,Nixon-Wright Clinic,Port James,AK,In-Network
+PRV00355,5562668065,Dr. Cox,Cardiology,"Maddox, Barnes and Weiss Clinic",Deanshire,HI,In-Network
+PRV00356,8063975317,Dr. Perez,Cardiology,"Garrison, Clark and James Clinic",Amybury,PA,Out-of-Network
+PRV00357,5678313419,Dr. Castillo,Neurology,Johnson Inc Clinic,Bensonland,WA,Out-of-Network
+PRV00358,9690538246,Dr. Smith,Neurology,Smith LLC Clinic,Barbaraside,VA,Out-of-Network
+PRV00359,8432653328,Dr. Kelley,Cardiology,Cooper and Sons Clinic,Brewerville,NY,Out-of-Network
+PRV00360,1183920009,Dr. Rivera,Orthopedics,"Jones, Pugh and Mccoy Clinic",Lake Katieton,OR,Out-of-Network
+PRV00361,9844067334,Dr. Leach,Neurology,Rhodes-Adams Clinic,West Vincentville,ME,In-Network
+PRV00362,7551131117,Dr. Adams,Neurology,Long and Sons Clinic,Willietown,IL,Out-of-Network
+PRV00363,9421315812,Dr. Henderson,General Practice,Valenzuela and Sons Clinic,West Geraldfort,MP,Out-of-Network
+PRV00364,2244980889,Dr. Freeman,Oncology,"Patel, Riddle and Ruiz Clinic",Englishhaven,MN,Out-of-Network
+PRV00365,4768313349,Dr. Frost,Cardiology,Gordon-Frederick Clinic,Nicholasbury,IL,Out-of-Network
+PRV00366,3719449263,Dr. Oconnor,General Practice,Newman-Herrera Clinic,Mauriceton,IA,Out-of-Network
+PRV00367,7230776123,Dr. Flores,Cardiology,"Brooks, Stevens and Taylor Clinic",Westville,NV,In-Network
+PRV00368,5099396777,Dr. Anderson,Pediatrics,"Simmons, Brown and Lee Clinic",West Dennishaven,VA,Out-of-Network
+PRV00369,8766937027,Dr. Young,Neurology,"Castillo, Estrada and Donovan Clinic",Andrewview,RI,Out-of-Network
+PRV00370,2094396022,Dr. Bruce,Emergency,Smith-Horton Clinic,Port Roybury,SC,Out-of-Network
+PRV00371,1156815902,Dr. Jimenez,General Practice,Lopez-Gutierrez Clinic,Hortonview,NV,Out-of-Network
+PRV00372,6680767249,Dr. Jones,Orthopedics,Hess and Sons Clinic,Danielton,TX,Out-of-Network
+PRV00373,5330006670,Dr. Washington,Neurology,Haley-Robinson Clinic,Wrighthaven,MN,Out-of-Network
+PRV00374,8357511981,Dr. Johnson,Pediatrics,Miller-Graham Clinic,Lake Michele,CO,In-Network
+PRV00375,1739784277,Dr. Kirk,Emergency,Osborn PLC Clinic,Louisstad,GA,In-Network
+PRV00376,9126896928,Dr. Medina,Neurology,White-Chen Clinic,Mcmillanburgh,TX,In-Network
+PRV00377,5359038201,Dr. Martin,Orthopedics,Brewer LLC Clinic,Lake Andreside,LA,In-Network
+PRV00378,9283623113,Dr. Phelps,Orthopedics,Ramirez Inc Clinic,Smithberg,WY,Out-of-Network
+PRV00379,1281437111,Dr. Ball,Emergency,Swanson LLC Clinic,New Kathleen,VA,In-Network
+PRV00380,4020624334,Dr. Hamilton,Cardiology,Palmer Group Clinic,Port Lauren,UT,In-Network
+PRV00381,5537938756,Dr. Henderson,Pediatrics,"Patterson, Mendez and Pierce Clinic",East Patrick,AK,Out-of-Network
+PRV00382,8505356353,Dr. Knox,General Practice,"Shah, Lewis and Harrison Clinic",Markstad,OH,In-Network
+PRV00383,5116077792,Dr. Edwards,Orthopedics,Johnson-Johnson Clinic,Lake Crystalborough,TX,Out-of-Network
+PRV00384,4872819894,Dr. Day,Pediatrics,"Mills, Smith and Blackburn Clinic",Robertmouth,WV,In-Network
+PRV00385,3401616572,Dr. Holland,Orthopedics,Greene-Hunter Clinic,Port Cynthiaport,FL,Out-of-Network
+PRV00386,3552521966,Dr. Cortez,Cardiology,Sanders-Harris Clinic,Jennifermouth,WI,In-Network
+PRV00387,4665534867,Dr. Tucker,Emergency,Ramirez and Sons Clinic,Lake Courtneyfort,HI,In-Network
+PRV00388,1671003206,Dr. Reyes,Oncology,"Valdez, Hines and Lewis Clinic",Benjaminburgh,MN,In-Network
+PRV00389,4670810316,Dr. Miller,Cardiology,Solis Ltd Clinic,Durhamburgh,AZ,Out-of-Network
+PRV00390,6086677547,Dr. Wood,Pediatrics,Smith-Ruiz Clinic,Staceychester,OH,Out-of-Network
+PRV00391,5077762476,Dr. Cox,Cardiology,Thornton-Brown Clinic,New Ashleyport,SD,In-Network
+PRV00392,7279896473,Dr. Hoffman,Orthopedics,Sanders-Shepard Clinic,Austinfort,NY,Out-of-Network
+PRV00393,6287644916,Dr. Parks,Orthopedics,Maynard and Sons Clinic,Willieborough,NJ,Out-of-Network
+PRV00394,1844807701,Dr. Craig,Cardiology,"Fry, Perez and Henderson Clinic",Roberttown,WA,Out-of-Network
+PRV00395,2287920710,Dr. Ross,Cardiology,Moss PLC Clinic,North Christopherland,NV,In-Network
+PRV00396,4666739347,Dr. Moody,Emergency,Miller PLC Clinic,Charlesside,TN,In-Network
+PRV00397,9993249908,Dr. Jones,Pediatrics,"Schultz, Howard and Price Clinic",South Walter,MS,Out-of-Network
+PRV00398,2417209998,Dr. Tucker,Emergency,Campbell-Holmes Clinic,Kiarashire,ID,Out-of-Network
+PRV00399,4749763046,Dr. Parker,Pediatrics,"Morgan, Miller and Chavez Clinic",West Bruce,TX,Out-of-Network
+PRV00400,7787040691,Dr. Becker,Orthopedics,Ware-Richard Clinic,Fritzshire,GU,In-Network
+PRV00401,4060686760,Dr. Graham,Cardiology,Peck Group Clinic,Rogerchester,TX,Out-of-Network
+PRV00402,2421610280,Dr. Patterson,Cardiology,Saunders-Stephens Clinic,Charlesland,RI,Out-of-Network
+PRV00403,3920962826,Dr. Hull,General Practice,Mendez PLC Clinic,South Daniellefurt,OR,In-Network
+PRV00404,6077170253,Dr. Campbell,Oncology,"Simpson, Herrera and Allen Clinic",Hillmouth,NJ,Out-of-Network
+PRV00405,5143173613,Dr. Schmidt,Pediatrics,"Hamilton, Harris and Moore Clinic",Reyesshire,SD,In-Network
+PRV00406,7922904263,Dr. Brown,Cardiology,"Huang, Williams and Livingston Clinic",Pattersonchester,OR,Out-of-Network
+PRV00407,8855248731,Dr. Alvarado,Neurology,Marquez-Abbott Clinic,Navarroside,TN,Out-of-Network
+PRV00408,5584476454,Dr. Perez,Cardiology,Stout-Hebert Clinic,Richardfort,VA,Out-of-Network
+PRV00409,3860343640,Dr. Hayes,General Practice,Li PLC Clinic,Johnsonton,AZ,Out-of-Network
+PRV00410,5032564481,Dr. Garcia,Oncology,Cook-Zuniga Clinic,Lake Suzanne,CO,Out-of-Network
+PRV00411,6207456807,Dr. Thomas,Cardiology,Byrd Inc Clinic,Brookshaven,IA,Out-of-Network
+PRV00412,1761394914,Dr. Morrison,Neurology,"West, Carson and Bennett Clinic",South Alexis,ID,Out-of-Network
+PRV00413,1852692559,Dr. Barajas,Orthopedics,Douglas-Jones Clinic,South Jamesfort,KY,In-Network
+PRV00414,2355837968,Dr. Burns,Neurology,"Turner, Klein and Rubio Clinic",South Sara,WI,Out-of-Network
+PRV00415,9252144024,Dr. Nichols,Orthopedics,Rodriguez-Austin Clinic,Westton,TN,Out-of-Network
+PRV00416,7696776353,Dr. Alexander,Pediatrics,Clark and Sons Clinic,Bellchester,GA,Out-of-Network
+PRV00417,1584099126,Dr. Jackson,General Practice,"Pittman, Peterson and Scott Clinic",Brookeview,PW,Out-of-Network
+PRV00418,2389386672,Dr. Schultz,Orthopedics,Larsen-Macdonald Clinic,West Samanthaville,NE,Out-of-Network
+PRV00419,3557897193,Dr. Cook,Pediatrics,Sullivan-Huff Clinic,Lindastad,NH,Out-of-Network
+PRV00420,8954415528,Dr. Thomas,Oncology,Thompson-Gamble Clinic,Hawkinsbury,ID,In-Network
+PRV00421,4636306271,Dr. Sutton,Neurology,Mcgee-Mejia Clinic,Morrisview,CT,In-Network
+PRV00422,6377826320,Dr. Mendez,Cardiology,Elliott-Martinez Clinic,Alisonstad,GU,Out-of-Network
+PRV00423,5451198223,Dr. Smith,General Practice,Page-Ramirez Clinic,West Jodibury,SC,Out-of-Network
+PRV00424,6898506973,Dr. Romero,General Practice,Brown-Gilbert Clinic,Port Shannonberg,CA,Out-of-Network
+PRV00425,2672864511,Dr. Ross,Pediatrics,"Bowen, Diaz and Steele Clinic",Brooksland,AK,In-Network
+PRV00426,8884961905,Dr. Snow,General Practice,"Simon, Gray and Nelson Clinic",Campbellton,NJ,Out-of-Network
+PRV00427,3065495446,Dr. Flores,General Practice,Medina and Sons Clinic,South Dawn,OH,In-Network
+PRV00428,4163848591,Dr. Little,Cardiology,Hamilton PLC Clinic,Lake Davidville,AK,Out-of-Network
+PRV00429,4986329211,Dr. Miller,Orthopedics,Stephenson LLC Clinic,Lake Donna,WA,In-Network
+PRV00430,7997811528,Dr. Brandt,General Practice,Perez LLC Clinic,Hicksstad,OK,In-Network
+PRV00431,3998179751,Dr. Sanders,Cardiology,"Lyons, Peterson and Wolfe Clinic",Port Sara,RI,In-Network
+PRV00432,8701202465,Dr. Sanchez,Cardiology,Smith-Adams Clinic,Bernardchester,NM,Out-of-Network
+PRV00433,7021501381,Dr. Brock,Cardiology,Marshall-Roberts Clinic,North Briannamouth,NE,Out-of-Network
+PRV00434,7245067281,Dr. Wright,Pediatrics,Richards PLC Clinic,Brianport,ME,In-Network
+PRV00435,2361566608,Dr. Strickland,General Practice,Kennedy-Herrera Clinic,Ayerston,PW,In-Network
+PRV00436,9838758664,Dr. Fisher,Cardiology,"Reynolds, Lopez and Doyle Clinic",North Alyssamouth,WA,In-Network
+PRV00437,5813067481,Dr. Johnson,Oncology,"Rodriguez, Landry and Barron Clinic",Port Elizabethton,OR,Out-of-Network
+PRV00438,6084389883,Dr. Smith,Oncology,"Contreras, Howard and Friedman Clinic",South Sydney,MA,Out-of-Network
+PRV00439,2550272971,Dr. Garcia,Emergency,"Tucker, Dominguez and Mcdaniel Clinic",Hollowayborough,ME,In-Network
+PRV00440,4377741309,Dr. Hunter,Cardiology,Diaz-Williams Clinic,Jaybury,NE,In-Network
+PRV00441,1578625345,Dr. Ross,Cardiology,"Huffman, Taylor and Jimenez Clinic",Kiddborough,MS,Out-of-Network
+PRV00442,7558052288,Dr. Jones,Neurology,"Smith, Powers and Pollard Clinic",East Douglas,NY,Out-of-Network
+PRV00443,4895248263,Dr. West,Orthopedics,Palmer-Berry Clinic,Jessicabury,RI,Out-of-Network
+PRV00444,2805156709,Dr. Rios,Pediatrics,"Lawson, Kelly and Mccormick Clinic",Adriantown,OR,Out-of-Network
+PRV00445,3356506382,Dr. York,Emergency,Horton-Munoz Clinic,Leblancburgh,NC,In-Network
+PRV00446,9556455688,Dr. Whitaker,General Practice,Mckinney Group Clinic,Lake Kennethstad,CO,In-Network
+PRV00447,5021374817,Dr. Nicholson,Oncology,Vaughan-Rivera Clinic,West Amy,WV,In-Network
+PRV00448,5933153292,Dr. Foster,Emergency,Hughes-Barnes Clinic,South Gary,WV,Out-of-Network
+PRV00449,2982744661,Dr. Nichols,Pediatrics,Rodriguez-Morgan Clinic,East Christinafort,VI,Out-of-Network
+PRV00450,9476075052,Dr. Peters,Neurology,Little Inc Clinic,East Thomasview,VT,In-Network
+PRV00451,2613054741,Dr. Nicholson,Pediatrics,Olson PLC Clinic,New Alice,NM,In-Network
+PRV00452,4639348145,Dr. Guerra,Oncology,Perez-Moore Clinic,Lake Lisachester,CO,Out-of-Network
+PRV00453,1410658497,Dr. Murphy,Orthopedics,Neal-Cross Clinic,West Nicholas,OR,Out-of-Network
+PRV00454,1330623256,Dr. Collins,General Practice,Wilson-Coffey Clinic,South Aliciaview,IA,Out-of-Network
+PRV00455,6104054971,Dr. Simmons,Orthopedics,Mckinney PLC Clinic,Port Ethan,PA,In-Network
+PRV00456,7785379293,Dr. Green,Neurology,"Allen, Scott and Schneider Clinic",Ericamouth,CT,Out-of-Network
+PRV00457,7393570817,Dr. Ferrell,Orthopedics,"Parker, Sanchez and Williams Clinic",Port Williamtown,NM,In-Network
+PRV00458,8856041601,Dr. Matthews,General Practice,Brown Inc Clinic,Stevenberg,VI,Out-of-Network
+PRV00459,9008680848,Dr. Hall,Neurology,"Baker, Watson and Smith Clinic",Lake Monicamouth,MI,Out-of-Network
+PRV00460,8699414227,Dr. Blankenship,Orthopedics,Miller Ltd Clinic,Gillville,LA,Out-of-Network
+PRV00461,2303573902,Dr. Haley,Orthopedics,"Jones, Marks and Gutierrez Clinic",Rebeccatown,UT,In-Network
+PRV00462,4910739955,Dr. Chapman,Neurology,Parsons-Ryan Clinic,Hendricksfort,DE,In-Network
+PRV00463,5694561440,Dr. Goodman,Emergency,Stanley-Duran Clinic,West Margaret,ID,Out-of-Network
+PRV00464,6931542020,Dr. Cardenas,Cardiology,Wang LLC Clinic,Port Virginiatown,ND,In-Network
+PRV00465,2762717093,Dr. Lewis,Cardiology,Cook Inc Clinic,South Sabrinaside,PW,In-Network
+PRV00466,3638688304,Dr. Gates,Orthopedics,Vargas-Garcia Clinic,South Nicholasbury,CA,Out-of-Network
+PRV00467,9611877890,Dr. Santiago,Pediatrics,Hicks PLC Clinic,Amandamouth,SC,Out-of-Network
+PRV00468,8200623113,Dr. Rodriguez,General Practice,Li-Conway Clinic,West Veronicaton,NM,Out-of-Network
+PRV00469,5033991956,Dr. Harris,Oncology,Myers LLC Clinic,Kennethberg,WA,In-Network
+PRV00470,7872372871,Dr. Smith,Pediatrics,Bailey Inc Clinic,East Jenniferhaven,PR,Out-of-Network
+PRV00471,8992142498,Dr. Lawson,Neurology,Hardin-Kim Clinic,Lake Ashleyport,WY,In-Network
+PRV00472,6859965743,Dr. Dean,General Practice,Moore and Sons Clinic,East Jesseton,CT,Out-of-Network
+PRV00473,2520066056,Dr. Silva,Pediatrics,Lopez-Miller Clinic,Port Johntown,VA,In-Network
+PRV00474,1548123725,Dr. Gates,Cardiology,Pitts-Lopez Clinic,East Miguel,OR,In-Network
+PRV00475,6646983594,Dr. Hall,General Practice,Boyer-Jackson Clinic,West Matthew,MH,Out-of-Network
+PRV00476,3045995915,Dr. Burke,Orthopedics,Brown-Winters Clinic,North Markport,PR,Out-of-Network
+PRV00477,2625556670,Dr. Greene,Oncology,Jimenez-Lopez Clinic,East Kimberlyburgh,KS,Out-of-Network
+PRV00478,9235872036,Dr. Shannon,Pediatrics,Wilson Ltd Clinic,New Michaelburgh,KY,Out-of-Network
+PRV00479,1950623884,Dr. White,Oncology,Fleming-Kim Clinic,Baldwintown,NV,In-Network
+PRV00480,2707550455,Dr. Morgan,Cardiology,"Schmitt, Mckee and Preston Clinic",Maryport,AL,Out-of-Network
+PRV00481,8360016120,Dr. Christensen,Cardiology,Davis-Roth Clinic,Jenkinsland,IN,Out-of-Network
+PRV00482,8970732908,Dr. Rubio,Emergency,Walters-Moore Clinic,Andersonfort,NE,In-Network
+PRV00483,9813172753,Dr. Griffith,Emergency,"Salazar, Pope and Cox Clinic",New Michael,AL,In-Network
+PRV00484,7615672032,Dr. Lane,Pediatrics,Mcgrath Group Clinic,Calvinland,OH,Out-of-Network
+PRV00485,9972352971,Dr. Turner,Cardiology,Morrison-Mendez Clinic,Greenbury,VI,In-Network
+PRV00486,1005064486,Dr. Compton,Orthopedics,Pugh Ltd Clinic,Randallburgh,NH,Out-of-Network
+PRV00487,8438564140,Dr. Rollins,Oncology,"Moore, Ortiz and Washington Clinic",Debbieland,OH,Out-of-Network
+PRV00488,9213136989,Dr. Mays,Pediatrics,"Newton, Turner and Delacruz Clinic",Travishaven,MT,Out-of-Network
+PRV00489,6413622207,Dr. Fuller,General Practice,Foster Group Clinic,Stevenberg,CT,In-Network
+PRV00490,3760220912,Dr. Bowman,General Practice,Tate-Reilly Clinic,East Troy,KS,Out-of-Network
+PRV00491,4837564419,Dr. Pace,Neurology,Mcguire Group Clinic,Lake Jodi,MI,Out-of-Network
+PRV00492,9617948917,Dr. Lewis,Neurology,"Ruiz, Morales and Watts Clinic",Collinsstad,OH,In-Network
+PRV00493,8320549087,Dr. Patton,Orthopedics,"Hayes, Patel and Allen Clinic",East Sarahborough,AK,In-Network
+PRV00494,6194671308,Dr. Knight,Emergency,Ho-Craig Clinic,Powellville,WV,In-Network
+PRV00495,7494487841,Dr. Scott,Emergency,Lopez-Brown Clinic,West Tonya,NY,In-Network
+PRV00496,2236692337,Dr. Hernandez,Orthopedics,Willis PLC Clinic,Rothtown,ID,In-Network
+PRV00497,6955268341,Dr. Dunlap,Oncology,"Miller, Singleton and Gonzalez Clinic",Jamesburgh,VI,In-Network
+PRV00498,3517579819,Dr. Bowers,Pediatrics,"Wilson, Shaw and Allen Clinic",Lake Leahmouth,OH,Out-of-Network
+PRV00499,6708650240,Dr. Schroeder,Orthopedics,"Wiggins, Walters and Kim Clinic",Latoyaburgh,SD,Out-of-Network
+PRV00500,9890341762,Dr. Santos,Pediatrics,Anderson Group Clinic,Angiemouth,MD,In-Network
