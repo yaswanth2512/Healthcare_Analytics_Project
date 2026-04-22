@@ -1,4 +1,4 @@
-<h1 align="center">🏥 Healthcare Claims & Member Insights Analytics Platform</h1>
+<h1 align="center">Healthcare Claims & Member Insights Analytics Platform</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/IBM_DataStage-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-## 🚀 Project Overview
+## Project Overview
 This project is an end-to-end, production-quality healthcare analytics portfolio piece. It simulates an enterprise-level data pipeline tailored for a Healthcare Data Analyst role. The repository showcases the complete data lifecycle: 
 1. **Generating** synthetic, highly realistic healthcare data (50,000+ rows).
 2. **Cleansing** & validating data programmatically.
@@ -19,7 +19,7 @@ This project is an end-to-end, production-quality healthcare analytics portfolio
 
 ---
 
-## 🏗️ Technical Workflow & Architecture
+## Technical Workflow & Architecture
 
 The following representation details how the data traverses from the source simulation to the final visualization dashboards:
 
@@ -54,7 +54,7 @@ graph TD
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```text
 Healthcare_Analytics_Project/
@@ -70,7 +70,7 @@ Healthcare_Analytics_Project/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Generate & Validate Data locally
 ```bash
@@ -91,7 +91,7 @@ python data_cleansing_validation.py
 
 ---
 
-## 💡 Key Business Insights Discovered
+## Key Business Insights Discovered
 
 Through extensive data modeling, the following metrics were highlighted within the reporting views:
 
