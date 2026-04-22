@@ -90,7 +90,7 @@ python data_cleansing_validation.py
 - Use `sql/01_advanced_analysis.sql` to assess high-performing window functions and queries resolving business requests.
 
 <p align="center">
-  <img src="tableau/Enterprise_Tableau_Dark_Mode.png" alt="Tableau Dashboard Mockup" width="800"/>
+  <img src="tableau/Authentic_Blue_Dashboard.png" alt="Stunning Blue Tableau Dashboard Mockup" width="850"/>
 </p>
 
 ---
