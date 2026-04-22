@@ -89,6 +89,10 @@ python data_cleansing_validation.py
 - Reference `tableau/Tableau_Dashboard_Guide.md` for specific guidance on recreating the UI parameters for Executive and Population Health views.
 - Use `sql/01_advanced_analysis.sql` to assess high-performing window functions and queries resolving business requests.
 
+<p align="center">
+  <img src="tableau/Sample_Tableau_Dashboard.png" alt="Tableau Dashboard Mockup" width="800"/>
+</p>
+
 ---
 
 ## Key Business Insights Discovered
