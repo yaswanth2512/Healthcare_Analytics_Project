@@ -49,12 +49,7 @@ graph TD
         J --> M[Population Health Insights]
     end
     
-    style A fill:#ececff,stroke:#9381ff,stroke-width:2px
-    style B fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
-    style D fill:#ffccbc,stroke:#ff5722,stroke-width:2px
-    style H fill:#b2ebf2,stroke:#00bcd4,stroke-width:2px
-    style I fill:#b2ebf2,stroke:#00bcd4,stroke-width:2px
-    style J fill:#f8bbd0,stroke:#e91e63,stroke-width:2px
+    %% Styling natively handled by GitHub themes for maximum readability
 ```
 
 ---
