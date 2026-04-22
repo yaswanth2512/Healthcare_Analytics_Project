@@ -93,8 +93,8 @@ def style_panel(ax, title):
 # KPIs
 def create_kpi(ax, title, value, color):
     ax.axis('off')
-    ax.text(0.5, 0.70, title, fontsize=12, color=subtext_color, ha='center', textcoords='axes fraction')
-    ax.text(0.5, 0.25, value, fontsize=36, fontweight='bold', color=color, ha='center', textcoords='axes fraction')
+    ax.text(0.5, 0.70, title, fontsize=12, color=subtext_color, ha='center', transform=ax.transAxes)
+    ax.text(0.5, 0.25, value, fontsize=36, fontweight='bold', color=color, ha='center', transform=ax.transAxes)
     
     bbox = ax.get_position()
     rect = Rectangle((bbox.x0, bbox.y0), bbox.width, bbox.height, 
