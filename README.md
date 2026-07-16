@@ -95,7 +95,7 @@ python data_cleansing_validation.py
 
 ---
 
-## Key Business Insights Discovered
+## Key Business Insights Discovered and Displayed
 
 Through extensive data modeling, the following metrics were highlighted within the reporting views:
 
